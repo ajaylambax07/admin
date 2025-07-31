@@ -1,27 +1,23 @@
-# 🛠️ Admin Dashboard (Responsive with Theme Switching)
+# 💰 Responsive Banking UI
 
-This is a professional, responsive **Admin Dashboard** interface built using **HTML**, **CSS Grid**, and a **light/dark mode switcher**.
+A simple, clean, and responsive banking user interface built using only **HTML5** and **CSS3**. This UI displays a balance section along with two visually distinct buttons for **Deposit** and **Withdraw** actions.
 
-The layout is designed to be clean, minimal, and fully adaptable to different screen sizes. Theming is handled using CSS variables and toggled using JavaScript.
+## 🖼️ Preview
 
----
+![Banking UI Screenshot](Banking.png)
 
-## 📸 Preview
+## 🎯 Features
 
-![Dashboard Preview](Admin.png)
+- 💵 Centered balance display  
+- ✅ Green "Deposit" button  
+- ❌ Red "Withdraw" button  
+- 📱 Fully responsive layout (mobile, tablet, desktop)  
+- ✨ Modern card design with shadows and rounded corners  
+- 🎨 No JavaScript — pure HTML & CSS
 
+## 🛠️ Technologies Used
 
----
+- HTML5  
+- CSS3 (Flexbox for layout)
 
-## 🚀 Features
-
-- ✅ **CSS Grid layout** for modern, responsive design
-- 🌗 **Light and Dark Theme Toggle**
-- 🖥️ Fully responsive for desktop and mobile
-- 🎨 Clean and accessible UI
-- ⚡ Fast loading (no external libraries used)
-
----
-
-## 📁 Project Structure
-
+## 🚀 Getting Started
